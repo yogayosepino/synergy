@@ -1,12 +1,0 @@
-
-Å
-java:S1186›"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§Ÿ•ò8“ÅÅÅò1J$a6b3d02c-075c-4c26-9ce0-180ca6e317ad
-Ê
-java:S1186ž"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áž¡Àýÿÿÿÿ8ãÖÃÅò1J$bffcd623-896a-44e2-b5ac-60c514b3e71d
-m	java:S106"+Replace this use of System.out by a logger.(ñ»µ§8ò’¸Åò1J$b10c9fce-2f56-41fb-85cc-78c4b899428a
-~	java:S125a"<This block of commented-out lines of code should be removed.(›Òä8þ’¸Åò1J$67e1c649-d565-45c1-994d-6fe7dc1ec3e8
-~	java:S125j"<This block of commented-out lines of code should be removed.(ØÎ»±8€“¸Åò1J$ce2ce79a-364b-4a2c-8ecf-82e38f462971
-o
-java:S1172›"+Remove this unused method parameter "user".(§Ÿ•ò8üÖÃÅò1J$f4ffe63a-9595-427f-a7c2-80be9893ead0
-t
-java:S1172ž"+Remove this unused method parameter "user".(áž¡Àýÿÿÿÿ8°ÅÅÅò1J$0be35124-2e02-46ce-a3d3-fec62c803f5f
