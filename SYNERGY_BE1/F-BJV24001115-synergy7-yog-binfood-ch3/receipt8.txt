@@ -1,0 +1,13 @@
+BinarFoodWaktu : 2024-04-29
+Order : 8
+
+Terima kasih sudah memesan
+di BinarFud
+
+Di bawah ini adalah pesanan anda
+
+1. Nasi Goreng      1       15000
+-----------------------------------+
+Total :15000
+Pembayaran : BinarCash
+Simpan struk ini sebagai bukti pembayaran

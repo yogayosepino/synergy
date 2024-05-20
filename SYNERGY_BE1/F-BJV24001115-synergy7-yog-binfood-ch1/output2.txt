@@ -1,0 +1,14 @@
+
+==========================
+Binarfood
+==========================
+Terimakasih sudah memesan di Binar Food
+Dibawah ini adalah pesanan anda
+
+Nasi Goreng        2        30000        
+Mie Goreng        3        39000        
+Nasi + Ayam        4        72000        
+Es Teh Manis        5        15000        
+Es Jeruk        6        18000        
+Total        20        174000        
+
